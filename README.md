@@ -1,6 +1,17 @@
-# Conceptual Multi-Element Front Wing Development
-This is my first proper project using CAD and CFD tools
+## Aerodynamic Wing Design Project
 
-After opening the file, you will see a wing model that, according to approximate mathematical calculations, achieves a drag-to-downforce ratio of about 1:6
+### Goal
+To design a basic aerodynamic wing and evaluate its performance in terms of downforce and drag.
 
-This project focuses on designing the geometry in CAD and evaluating its aerodynamic behavior using CFD simulations
+### Method
+- Developed a simplified aerodynamic model to estimate lift (downforce) and drag forces  
+- Tested different wing configurations and angles of attack  
+- Compared aerodynamic efficiency across variations  
+
+### Results
+- Achieved approximately a 6:1 downforce-to-drag ratio under tested conditions  
+- Identified configurations that significantly improve aerodynamic efficiency  
+- Demonstrated the impact of wing design on overall vehicle performance  
+
+### Conclusion
+This project demonstrates the ability to apply aerodynamic principles to improve performance and analyze trade-offs between downforce and drag.
